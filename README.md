@@ -1,5 +1,5 @@
 # The Sparks Foundation Internship
- <span style="color: green">This is my internship repository for tasks and projects during the internship of Data Science and Business Analytics at The Sparks Foundation.</span>
+ > This is my internship repository for tasks and projects during the internship of Data Science and Business Analytics at The Sparks Foundation.
  ---
  
  ### Task-1 : Prediction using Supervised ML (Level - Beginner)
